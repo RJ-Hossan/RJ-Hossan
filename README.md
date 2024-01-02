@@ -132,7 +132,7 @@ These are the tools and languages that I have worked with and have experience ab
 </p>
 
 <p align="center">
-  ⚡ Fun fact: I love to play games and watch anime very often. You know anime is really cool.
+  ⚡ Fun fact: I love to play games and watch anime very often. Do you know anime is really cool?
 </p>
 
 <!-- Additional Points Section -->
@@ -143,3 +143,7 @@ These are the tools and languages that I have worked with and have experience ab
 - 📚 Beyond coding, I'm a continuous learner, always expanding my knowledge horizons. Whether it's through online courses, coding challenges, or exploring open-source projects, I believe in staying curious and embracing new challenges.
 
 - 🔗 My GitHub is not just a code repository; it's a reflection of my growth, experimentation, and passion for building things that matter. Feel free to explore my projects, provide feedback, or collaborate on exciting new endeavors.
+
+<p align="center">
+Arigato gozaimasu for visiting my github profile
+</p>
