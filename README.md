@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQG_S8wSoqBa7g/profile-displaybackgroundimage-shrink_350_1400/0/1703446244829?e=1709769600&v=beta&t=ipbeovwRd4zHPJc0tzDfnpeyUBMor4ftk7gYnAmAtWM" alt="Banner" width="100%">
+  <img src="https://repository-images.githubusercontent.com/737757805/bb6e84fa-3708-4533-9863-5756c9b1c904" alt="Banner" width="100%">
 </p>
 
 <!-- Profile Picture and Name -->
