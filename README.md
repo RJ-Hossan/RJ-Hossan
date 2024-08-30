@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <h3 align="center">A dedicated and ambitious undergraduate student pursuing my BSc in CS from CUET | Based in Bangladesh</h3>
 
 <!-- Animated Icons -->
+<!-- 
 <p align="center">
   <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="100" height="90">
   <img src="https://media.giphy.com/media/UySAHviCpoGp5uNwJK/giphy.gif" width="100" height="90">
@@ -36,14 +37,17 @@ Here are some ideas to get you started:
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100" height="90">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" height="90">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" height="90">
-</p>
+</p> 
+-->
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=CS+Undergraduate;ML+Enthusiast;Problem+Solving;Communication;Innovation&center=true&width=500&height=50" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=CS+Undergraduate;ML+Enthusiast;Problem+Solver;Collaborative;Innovative&center=true&width=500&height=50" alt="Typing Animation">
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RJ-Hossan&theme=nord&column=-1)](https://github.com/RJ-Hossan/github-profile-trophy)
 
 <!-- About Me Section -->
 <p align="left">
