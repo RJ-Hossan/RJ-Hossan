@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=RJ-Hossan)
 ### Hi there 👋
 
 <!--
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 <!-- Banner Image -->
 <p align="center">
@@ -71,6 +71,15 @@ Here are some ideas to get you started:
 
 These are the tools and languages that I have worked with and have experience about using them.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,sklearn,dart,js,nodejs,npm,react,html,css,tailwind,bootstrap,mysql,anaconda,androidstudio,arduino,figma,flutter,git,latex,sublime,vscode" />
+  </a>
+</p>
+
+![HandleBars](https://cdn.worldvectorlogo.com/logos/handlebars-1.svg)&nbsp;
+
+<!--
 ![C](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/20px-The_C_Programming_Language_logo.svg.png)
 ![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/20px-ISO_C%2B%2B_Logo.svg.png)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -86,6 +95,7 @@ These are the tools and languages that I have worked with and have experience ab
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/20px-Sublime_Text_3_logo.png)
+-->
 <br />
 
 <!-- GitHub Stats Section -->
