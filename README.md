@@ -101,7 +101,12 @@ These are the tools and languages that I have worked with and have experience ab
 <!-- GitHub Stats Section -->
 <p align="center">
     <a href="https://github.com/RJ-Hossan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="RJ Hossan's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RJ-Hossan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="100%">
+        <img 
+            title="🔥 Get streak stats for your profile at git.io/streak-stats" 
+            alt="RJ Hossan's GitHub Streak Stats" 
+            src="https://github-readme-streak-stats.herokuapp.com/?user=RJ-Hossan&theme=black-ice&hide_border=true&stroke=000000&background=060A0CD0" 
+            width="100%"
+        />
     </a>
 </p>
 
